@@ -6,7 +6,7 @@ Author: Vlamaz (Vladyslav Mazurkevych)
 Author-email: <srvlamaz@gmail.com>
 Keywords: python,machine learning,data,llama3,ai
 Classifier: Development Status :: 1 - Planning
-Classifier: Intended Audience :: Data Scientists
+Classifier: Intended Audience :: Developers
 Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Programming Language :: Python :: 3.6

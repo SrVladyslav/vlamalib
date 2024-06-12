@@ -25,7 +25,7 @@ setup(
     keywords=['python', 'machine learning', 'data', 'llama3', 'ai'],
     classifiers=[
         "Development Status :: 1 - Planning",
-        "Intended Audience :: Data Scientists",
+        "Intended Audience :: Developers",
         "Topic :: Scientific/Engineering :: Artificial Intelligence",
         "License :: OSI Approved :: MIT License",
         "Programming Language :: Python :: 3.6",
