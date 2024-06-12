@@ -1,5 +1,5 @@
 # Ignore commands.txt in the root directory
-/commands.txt
+commands.txt
 
 # Uncomment the following line to ignore commands.txt in any subdirectory
-**/commands.txt
+#**/commands.txt
